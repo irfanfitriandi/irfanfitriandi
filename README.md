@@ -65,7 +65,7 @@
   <a href="https://github.com/irfanfitriandi">
     <img src="https://github-readme-stats.vercel.app/api?username=irfanfitriandi&show_icons=true&include_all_commits=true&count_private=true&bg_color=000&title_color=fff&text_color=fff&icon_color=fff" alt="Commit Stats"/>
   </a>
-  <a href="https://github.com/devanada">
+  <a href="https://github.com/irfanfitriandi">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanfitriandi&layout=compact&langs_count=8&bg_color=000&title_color=fff&text_color=fff" alt="Language Stats"/>
   </a>
 </div>
