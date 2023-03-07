@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Irfan Fitriandi</h1>
+<div align="center">
+  <h1>Hi 👋, I'm Irfan Fitriandi</h1>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=irfanfitriandi&label=Profile%20Views&color=12&icon=2&pretty=true" />
+  </a>
+</div>
+
 
 ---
 
@@ -61,7 +67,6 @@
 ---
 
 <h3 align="left">:gear: GitHub Analytics:</h3>
-[![](https://visitcount.itsvg.in/api?id=irfanfitriandi&label=Profile%20Views&color=12&icon=1&pretty=true)](https://visitcount.itsvg.in)
 <div align="center">
   <a href="https://github.com/irfanfitriandi">
     <img src="https://github-readme-stats.vercel.app/api?username=irfanfitriandi&show_icons=true&include_all_commits=true&count_private=true&bg_color=000&title_color=fff&text_color=fff&icon_color=fff" alt="Commit Stats"/>
