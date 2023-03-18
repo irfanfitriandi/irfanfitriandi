@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi 👋, I'm Irfan Fitriandi</h1>
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=irfanfitriandi&label=Profile%20Views&color=12&icon=2&pretty=true" />
+    <img src="https://komarev.com/ghpvc/?username=irfanfitriandi&style=flat-square&color=blue" />
   </a>
 </div>
 
@@ -51,6 +51,9 @@
   </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&color=black" alt="tailwind"/> 
+  </a>
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/sass-%23593d88.svg?style=for-the-badge&logo=sass&logoColor=white&color=black" alt="sass"/> 
   </a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/bootstrap-%23593d88.svg?style=for-the-badge&logo=bootstrap&logoColor=white&color=black" alt="bootstrap"/> 
