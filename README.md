@@ -46,6 +46,12 @@
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white&color=black" alt="nextjs"/> 
   </a> 
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/vue-%2320232a.svg?style=for-the-badge&logo=vue.js&logoColor=white&color=black" alt="vuejs"/> 
+  </a> 
+  <a href="https://nuxt.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white&color=black" alt="nuxtjs"/> 
+  </a> 
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white&color=black" alt="redux"/> 
   </a> 
